@@ -4,6 +4,15 @@ body {
   margin: 0.3in; padding: 0.3in; padding-top: 0.05in;
 }
 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: right;
+}
+
 .button {
   background-color: #064991;
   border: none;
