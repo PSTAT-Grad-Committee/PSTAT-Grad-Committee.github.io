@@ -106,3 +106,8 @@ body {
   border-radius: 5pt;
   color: white;
 }
+
+.statementtitle{
+  background-color: #f7dd68;
+  color: #064991;
+}
