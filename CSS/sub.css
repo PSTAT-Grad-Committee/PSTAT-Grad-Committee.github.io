@@ -100,3 +100,8 @@ body {
   background-color: #f7dd68;
   color: #064991;
 }
+
+.statement {
+  background-color: black;
+  border-radius : 5pt;
+}
