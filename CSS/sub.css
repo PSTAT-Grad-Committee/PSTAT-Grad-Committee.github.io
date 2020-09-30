@@ -113,4 +113,5 @@ body {
 
 .descrip{
   width: 700px;
+  overflow-wrap: normal;
 }
