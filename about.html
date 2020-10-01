@@ -19,7 +19,8 @@
 
   <br>
 
-<div class = "statement">
+<div id = "container">
+<div class = "statement" id = "animate">
   <div class = "statementtitle"><b>Mission Statement</b></div>
 As an organization, we strive to:
   <ul>
@@ -28,6 +29,7 @@ As an organization, we strive to:
     <li>engage with the department in social capacities,</li>
     <li>promote a diverse and equitable environment that encourages respect between all graduate students and faculty </li>
   </ul>
+</div>
 </div>
 
 <br>
@@ -57,6 +59,57 @@ Services we provide include:
     <li>Faculty Office Hours (note that these are independent of office hours relating to specific classes).</li>
   </ul>
 Our events will be posted in advance to our <a href = "calendar">calendar</a>, as well as to our <a href = "https://discord.gg/JbUugQZ">discord</a> server.
+
+<!-- Scripts for fade-ins -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+myMove()
+
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+
+function myMove3() {
+  var elem = document.getElementById("animate3");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove3(); }, 1400)
+</script>
+
+
+
 <!--
 <p><b>Our primary goal is to foster a greater
   sense of community among the graduate students in the Department of Statistics and
