@@ -19,13 +19,16 @@
 
   <br>
 
-<p>Feel free to send us an email at <a href = "mailto:pstat.grad.committee@gmail.com">pstat.grad.committee@gmail.com</a>;
+<div id ="container">
+<p id = "animate">Feel free to send us an email at <a href = "mailto:pstat.grad.committee@gmail.com">pstat.grad.committee@gmail.com</a>;
   alternatively, you can message one of our officers through our <a href = "https://discord.gg/JbUugQZ">discord</a> server.
 </p>
+</div>
 
 
 <br>
 
+<div id ="container2" id = "animate2">
 <b><u>Anonymous Suggestions Box:</u></b>
 <table>
 <tr>
@@ -38,6 +41,7 @@
     </td>
 </tr>
 </table>
+</div>
 
 <!-- <br>
 
@@ -72,6 +76,39 @@
 <!-- <div class="footer">
   <p><i>Designed by Ethan Marzban, ©2020</i></p>
 </div> -->
+
+<!-- Scripts for fade-ins -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+myMove()
+
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+</script>
 
 </body>
 </html>
