@@ -18,8 +18,11 @@
   </div>
 
   <br>
+  <br>
 
 <!-- Communications and Tech -->
+<div id = "container">
+  <div id = "animate">
 <h2>Communications and Tech Officer</h2>
 <table>
 <tr>
@@ -33,15 +36,19 @@
     <a href = "mailto:epmarzban@pstat.ucsb.edu">epmarzban@pstat.ucsb.edu</a>
     <br>
     <br>
-    <div class = "descrip">Hello! I am a first-year PhD student who enjoys statistics, cats,
+    <div class = "descrip">
+      Hello! I am a first-year PhD student who enjoys statistics, cats,
       playing the piano, and boba. (Also, as the Communications/Tech officer I'm
       in charge of maintaining the website; please let me know if you have any
-      suggestions on how to make it better!)</div>
+      suggestions on how to make it better!)
+    </div>
   </td>
   </tl>
 
 </tr>
 </table>
+</div>
+</div>
 
 <br>
 
@@ -161,6 +168,28 @@
 </tr>
 
 </table>
+
+<!-- Custom Animations -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var yshift = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (op == 1 || yshift == -20) {
+      clearInterval(id);
+      elem.style.opacity = 1;
+    } else {
+      op = op + 0.01;
+      yshift = yshift - 0.5;
+      elem.style.opacity = op;
+      elem.style.top = yshift + "px";
+    }
+  }
+}
+myMove()
+</script>
 
 </body>
 </html>
