@@ -96,8 +96,8 @@
 <br>
 
 <!-- Academic Events -->
-<div id = "container2">
-  <div id = "animate2">
+<div id = "container3">
+  <div id = "animate3">
 <h2>Academic Events Coordinators</h2>
 <table>
 <tr>
@@ -135,8 +135,8 @@
 <br>
 <br>
 
-<div id = "container3">
-  <div id = "animate3">
+<div id = "container4">
+  <div id = "animate4">
 <!-- Non-Academic Events -->
 <h2>Non-Academic Events Coordinators</h2>
 <table>
@@ -176,7 +176,7 @@
 <br>
 
 <div id = "container4">
-  <div id = "animate4">
+  <div id = "animate5">
 <!-- Diversity and Inclusion -->
 <h2>Diversity and Inclusion Subcommittee</h2>
 <table>
@@ -304,6 +304,25 @@ function myMove4() {
   }
 }
 setTimeout(function() {myMove4(); }, 600)
+
+function myMove5() {
+  var elem = document.getElementById("animate4");
+  var op = 0;
+  var yshift = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (op == 1 || yshift <= -20) {
+      clearInterval(id);
+      elem.style.opacity = 1;
+    } else {
+      op = op + 0.01;
+      yshift = yshift - 0.35;
+      elem.style.opacity = op;
+      elem.style.top = yshift + "px";
+    }
+  }
+}
+setTimeout(function() {myMove4(); }, 800)
 
 
 </script>
