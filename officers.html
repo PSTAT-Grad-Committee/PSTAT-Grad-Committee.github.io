@@ -51,7 +51,10 @@
 </div>
 
 <br>
+<br>
 
+<div id = "container2">
+  <div id = "animate2">
 <!-- Academic Events -->
 <h2>Academic Events Coordinators</h2>
 <table>
@@ -84,6 +87,8 @@
 </tr>
 
 </table>
+</div>
+</div>
 
 <br>
 
@@ -189,6 +194,26 @@ function myMove() {
   }
 }
 myMove()
+
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var yshift = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (op == 1 || yshift == -20) {
+      clearInterval(id);
+      elem.style.opacity = 1;
+    } else {
+      op = op + 0.01;
+      yshift = yshift - 0.5;
+      elem.style.opacity = op;
+      elem.style.top = yshift + "px";
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+
 </script>
 
 </body>
