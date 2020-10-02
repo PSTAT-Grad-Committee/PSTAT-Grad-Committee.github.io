@@ -42,41 +42,48 @@ body {
   padding: -5em;
 }
 #container2 {
-  width: 90%;
+  width: 100%;
   position: relative;
   margin: 0;
   padding: -5em;
 }
 #animate {
-  width: 90%;
+  width: 100%;
   position: relative;
   opacity: 0;
   margin: 0;
   padding: -5em;
 }
 #animate2 {
-  width: 90%;
+  width: 100%;
   position: relative;
   opacity: 0;
   margin: 0;
   padding: -5em;
 }
 #animate3 {
-  width: 90%;
+  width: 100%;
   position: relative;
   opacity: 0;
   margin: 0;
   padding: -5em;
 }
 #animate4 {
-  width: 90%;
+  width: 100%;
   position: relative;
   opacity: 0;
   margin: 0;
   padding: -5em;
 }
 #animate5 {
-  width: 90%;
+  width: 100%;
+  position: relative;
+  opacity: 0;
+  margin: 0;
+  padding: -5em;
+}
+#animate6 {
+  width: 100%;
   position: relative;
   opacity: 0;
   margin: 0;
