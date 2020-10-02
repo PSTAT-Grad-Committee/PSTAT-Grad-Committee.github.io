@@ -365,6 +365,25 @@ function myMove5() {
 }
 setTimeout(function() {myMove5(); }, 800)
 
+function myMove6() {
+  var elem = document.getElementById("animate6");
+  var op = 0;
+  var yshift = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (op == 1 || yshift <= -20) {
+      clearInterval(id);
+      elem.style.opacity = 1;
+    } else {
+      op = op + 0.01;
+      yshift = yshift - 0.35;
+      elem.style.opacity = op;
+      elem.style.top = yshift + "px";
+    }
+  }
+}
+setTimeout(function() {myMove6(); }, 1000)
+
 
 </script>
 
