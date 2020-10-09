@@ -161,7 +161,7 @@ ul.no_bullet {
 }
 
 li.coffee {
-  background: url('/Images/coffee.png') no-repeat left;
+  background: url('/Images/coffee.png') no-repeat left top;
   height: 100px;
   padding-left: 44px;
   padding-top: 0px;
