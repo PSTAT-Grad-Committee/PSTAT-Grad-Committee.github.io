@@ -1,0 +1,87 @@
+<link rel="icon" href="Images/p.png">
+<title>PSTAT Graduate Committee</title>
+
+<html>
+<body>
+
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Merriweather">
+    <link rel = "stylesheet" type = "text/css" href = "CSS/sub.css">
+  </head>
+
+  <div class="topnav">
+    <a href="/">Home</a>
+    <a href="calendar">Calendar</a>
+    <a href="contact">Contact</a>
+    <a class="active" href="about">About</a>
+  </div>
+
+  <br>
+
+<div id = "container">
+<div class = "statement" id = "animate">
+  <div class = "statementtitle"><h2>Mission Statement</h2></div>
+As an organization, we strive to:
+  <ul>
+    <li>provide streamlined communication between graduate students and the department,</li>
+    <li>provide academic support for graduate students </li>
+    <li>engage with the department in social capacities,</li>
+    <li>promote a diverse and equitable environment that encourages respect between all graduate students and faculty </li>
+  </ul>
+</div>
+</div>
+
+<br>
+
+
+<!-- Scripts for fade-ins -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+myMove()
+
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+
+function myMove3() {
+  var elem = document.getElementById("animate3");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove3(); }, 1400)
+</script>
+
+</body>
+</html>
