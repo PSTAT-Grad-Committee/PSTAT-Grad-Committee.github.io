@@ -17,6 +17,29 @@ body {
    font-size: 12px;
 }
 
+/* Button Customizations */
+.button {
+  background-color: #064991;
+  border: none;
+  color: #f7dd68;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 100px;
+}
+
+.button:hover {
+  background-color: #f7dd68;
+  color: #064991;
+}
+
+
 #container {
   width: 90%;
   position: relative;
