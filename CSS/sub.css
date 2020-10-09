@@ -165,6 +165,11 @@ body {
   color: black;
 }
 
+.dropbtn_active{
+  background-color: #f7dd68;
+  color: #064991;
+}
+
 .dropdown-content {
   overflow: hidden;
   display: none;
