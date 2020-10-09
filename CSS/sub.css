@@ -196,7 +196,7 @@ tr.spaced>td {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #ddd;
 }
 
 .dropdown-content {
