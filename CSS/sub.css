@@ -162,14 +162,14 @@ ul.no_bullet {
 
 li.coffee {
   background: url('/Images/coffee.png') no-repeat left top;
-  height: 10px;
+  height: 1px;
   padding-left: 44px;
   padding-top: 3px;
 }
 
 li.announcement {
   background: url('/Images/announ.png') no-repeat left top;
-  height: 10px;
+  height: 1px;
   padding-left: 44px;
   padding-top: 3px;
 }
