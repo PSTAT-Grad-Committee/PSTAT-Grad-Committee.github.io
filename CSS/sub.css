@@ -178,3 +178,31 @@ tr.spaced>td {
   padding-top: 2em;
   padding-bottom: 2em;
 }
+
+.dropdown{
+  float: left;
+}
+
+.dropdown .dropbtn {
+  color: black;
+  font-family: inherit;
+}
+
+.dropdown-content {
+  display:none;
+  position: absolute;
+}
+
+.dropdown-content a{
+  float: none;
+  color: black;
+  text-align: left;
+}
+
+.dropdown-content a:hover{
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display:block;
+}
