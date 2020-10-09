@@ -14,6 +14,7 @@ body {
    font-size: 12px;
 }
 
+/* Button Customizations */
 .button {
   background-color: #064991;
   border: none;
@@ -35,6 +36,7 @@ body {
   color: #064991;
 }
 
+/* Animation Customizations */
 #container {
   width: 100%;
   position: relative;
@@ -114,6 +116,7 @@ body {
   padding: -5em;
 }
 
+/* Navbar Customizations */
 .topnav {
   overflow: hidden;
   background-color: #064991;
@@ -139,45 +142,7 @@ body {
   color: #064991;
 }
 
-.statement {
-  background-color: #c9ddf0;
-  border-radius: 5pt;
-}
-
-.statementtitle{
-  background-color: #f7dd68;
-  color: #064991;
-}
-
-.descrip{
-  width: 700px;
-  word-wrap: break-word
-}
-
-ul.no_bullet {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-li.coffee {
-  background: url('/Images/coffee_icon.png') no-repeat left top;
-  height: 100px;
-  padding-left: 44px;
-  padding-top: 0px;
-}
-
-li.announcement {
-  background: url('/Images/announ.png') no-repeat left top;
-  height: 50px;
-  padding-left: 44px;
-  padding-top: 3px;
-}
-
-tr.spaced>td {
-  padding-top: 2em;
-  padding-bottom: 2em;
-}
+/* Dropdown Customizations */
 
 .dropdown {
   float: left;
@@ -225,4 +190,46 @@ tr.spaced>td {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+/* Blocks and Statements */
+.statement {
+  background-color: #c9ddf0;
+  border-radius: 5pt;
+}
+
+.statementtitle{
+  background-color: #f7dd68;
+  color: #064991;
+}
+
+.descrip{
+  width: 700px;
+  word-wrap: break-word
+}
+
+/* Icons and Events Customizations */
+ul.no_bullet {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li.coffee {
+  background: url('/Images/coffee_icon.png') no-repeat left top;
+  height: 100px;
+  padding-left: 44px;
+  padding-top: 0px;
+}
+
+li.announcement {
+  background: url('/Images/announ.png') no-repeat left top;
+  height: 50px;
+  padding-left: 44px;
+  padding-top: 3px;
+}
+
+tr.spaced>td {
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
