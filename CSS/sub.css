@@ -165,7 +165,7 @@ body {
   color: black;
 }
 
-/* .dropbtn_active{
+.dropdownactive{
   background-color: #f7dd68;
   color: #064991;
   font-size: 16px;
@@ -175,7 +175,7 @@ body {
   background-color: inherit;
   font-family: inherit;
   margin: 0;
-} */
+}
 
 .dropdown-content {
   overflow: hidden;
