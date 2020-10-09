@@ -1,0 +1,188 @@
+<link rel="icon" href="Images/p.png">
+<title>PSTAT Graduate Committee</title>
+
+<html>
+<body>
+
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Merriweather">
+    <link rel = "stylesheet" type = "text/css" href = "CSS/sub.css">
+  </head>
+
+  <div class="topnav">
+    <a href="/">Home</a>
+    <a href="calendar">Calendar</a>
+    <a href="contact">Contact</a>
+    <a class="active" href="about">About</a>
+  </div>
+
+  <br>
+
+<div id = "container">
+<div class = "statement" id = "animate">
+  <div class = "statementtitle"><h2>Mission Statement</h2></div>
+As an organization, we strive to:
+  <ul>
+    <li>provide streamlined communication between graduate students and the department,</li>
+    <li>provide academic support for graduate students </li>
+    <li>engage with the department in social capacities,</li>
+    <li>promote a diverse and equitable environment that encourages respect between all graduate students and faculty </li>
+  </ul>
+</div>
+</div>
+
+<br>
+
+<div id = "container2">
+  <div id = "animate2">
+To this end, we have established the following officer positions:
+  <ul>
+    <li>Communications and Technology Officer</li>
+    <li>Academic Events Officers</li>
+    <li>Non-Academic Events Officers</li>
+    <li>Diversity and Inclusion Subcommittee</li>
+  </ul>
+If you would like to join as one (or more) of these positions, feel free to email us or message an officer on our
+<a href = "https://discord.gg/JbUugQZ">discord</a> server.
+</div>
+</div>
+
+<br>
+<br>
+
+<div id = "container3">
+  <div id = "animate3">
+Services we provide include:
+  <ul>
+    <li>Faculty and Graduate Student Seminars.</li>
+    <li>“Stuff you Missed in Undergrad:” a short lecture series (hosted by grad students)
+    designed to advise students on useful (but perhaps forgotten) topics.</li>
+    <li class = "coffee">Regularly scheduled social events, both among graduate students as well as between graduate students and the faculty</li>
+    <li>Quarterly “Town Hall” meetings, designed to amplify perspectives and concerns of our
+     community and to promote empathy among one another.</li>
+    <li>Graduate Student Office Hours.</li>
+    <li>Faculty Office Hours (note that these are independent of office hours relating to specific classes).</li>
+  </ul>
+Our events will be posted in advance to our <a href = "calendar">calendar</a>, as well as to our <a href = "https://discord.gg/JbUugQZ">discord</a> server.
+</div>
+</div>
+
+<!-- Scripts for fade-ins -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+myMove()
+
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+
+function myMove3() {
+  var elem = document.getElementById("animate3");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove3(); }, 1400)
+</script>
+
+
+
+<!--
+<p><b>Our primary goal is to foster a greater
+  sense of community among the graduate students in the Department of Statistics and
+  Applied Probability. </b></p>
+
+<br>
+
+<p> We are always looking for new members! Our current structure consists of: </p>
+  <ul>
+    <li><b><u>Communications and Technology Officer</u></b></li>
+
+    This officer is in charge of overseeing official communications with the department,
+    and facilitating the exchange of information between faculty and graduate students. They
+    may also be tasked with maintaining the website, discord server, and other resources.
+
+    <br>
+    <br>
+
+    <li><b><u>Academic Events Coordinator</u></b></li>
+
+    This officer is in charge of brainstorming new academic-oriented events in which
+    students and faculty may participate. Duties include reserving spaces, reporting
+    expenses to the Treasurer, and frequently checking the anonymous tips box for
+    suggestions.
+
+    <br>
+    <br>
+
+    <li><b><u>Non-Academic Events Coordinator</u></b></li>
+
+    This officer has similar duties to that of the Academic Events coordinator,
+    except with a greater focus on non-academic events.
+
+    <br>
+    <br>
+
+    <li><b><u>Treasurer</u></b></li>
+
+    This officer is in charge of overseeing expenditure, creating budgets for
+    future events and communicating this budget with the department, and managing
+    reimbursals.
+
+    <br>
+    <br>
+
+    <li><b><u>Diversity and Equity Subcommittee</u></b></li>
+
+    The primary goal of this subcommittee is to create a greater sense of diversity
+    and inclusion within the department. This includes giving support and advice
+    to students facing challenges, addressing and working toward resolving
+    discrimination-related issues, and to monitor the anonymous surveys for
+    suggestions/concerns that need to be addressed.
+
+
+  </ul>
+
+<p>If you would like to join as an officer, please reach out through either our
+  <a href = "mailto:pstat.grad.committee@gmail.com?subject=New Officer">
+    email</a>, or by messaging a current officer in our
+    <a href = "https://discord.gg/JbUugQZ">discord</a> server.
+</p> -->
+
+<!-- <div class="footer">
+  <p><i>Designed by Ethan Marzban, ©2020</i></p>
+</div> -->
+
+</body>
+</html>
