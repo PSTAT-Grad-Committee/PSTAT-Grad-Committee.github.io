@@ -165,6 +165,18 @@ body {
   color: black;
 }
 
+.dropbtn_active{
+  background-color: #f7dd68;
+  color: #064991;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
 .dropdown-content {
   overflow: hidden;
   display: none;
