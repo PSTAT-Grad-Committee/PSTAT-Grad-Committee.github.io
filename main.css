@@ -40,6 +40,15 @@ body {
 }
 
 /* Animation Customizations */
+#contnew {
+  width: 100%;
+  position: relative;
+  margin: 0;
+  padding: -5em;
+  font-size: 48pt;
+}
+
+
 #container {
   width: 100%;
   position: relative;
