@@ -21,7 +21,7 @@
   }
 
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-  .active, .collapsible:hover {
+  .active2, .collapsible:hover {
     background-color: #ccccccf0;
   }
 
@@ -42,9 +42,10 @@
     margin-left: 5px;
   }
 
-  .active:after {
+  .active2:after {
     content: "\2796"; /* Unicode character for "minus" sign (-) */
   }
+
 </style>
 
 
@@ -122,7 +123,7 @@ var i;
 
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
+    this.classList.toggle("active2");
     var content = this.nextElementSibling;
     if (content.style.maxHeight){
       content.style.maxHeight = null;
