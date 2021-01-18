@@ -1,6 +1,52 @@
 <link rel="icon" href="Images/p.png">
 <title>PSTAT Graduate Committee</title>
 
+<style>
+  table {
+    border-spacing: 20px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .collapsible {
+    background-color: #eeeeee9f;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 16px;
+  }
+
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .collapsible:hover {
+    background-color: #ccccccf0;
+  }
+
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background-color: #f1f1f19f;
+  }
+
+  .collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+  }
+
+  .active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
+</style>
+
+
 <html>
 <body>
 
@@ -26,6 +72,9 @@
   style="border: 0" width="1000" height="600" frameborder="0" scrolling="no">
 </iframe>
 
+
+<button type="button" class="collapsible">Resources</button>
+<div class="content">
 
 <h3>Our First Set of Weekly Events: Afternoon t-Time</h3>
 <table>
@@ -61,6 +110,7 @@
 </tr>
 </table>
 
+</div>
 <!-- <iframe
   src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=cHN0YXQuZ3JhZC5jb21taXR0ZWVAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;title=Events%20and%20Important%20Dates"
   style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no">
