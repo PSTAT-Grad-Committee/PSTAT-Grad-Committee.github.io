@@ -1,0 +1,70 @@
+<link rel="icon" href="/Images/p.png">
+<title>PSTAT Graduate Committee</title>
+
+<html>
+<body>
+
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Merriweather">
+    <link rel = "stylesheet" type = "text/css" href = "/CSS/sub.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      img {
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+
+  <div class="topnav">
+    <a href="/">Home</a>
+    <a href="/calendar">Calendar</a>
+    <a href="/contact">Contact</a>
+    <a href="/about">About</a>
+    <a href="/officers">Officers</a>
+    <a href="/resources" class = "active">Resources</a>
+  </div>
+
+  <br>
+  <br>
+
+
+<div id = "container">
+  <div id = "animate">
+
+<h1>Big things are happening</h1>
+<h2><i>(but haven't happened yet...)</i></h2>
+
+<br>
+<br>
+
+<h3>Stay Tuned for Updates!</h3>
+
+  </div>
+  </div>
+
+<!-- Custom Animations -->
+<script>
+function myMove() {
+  var elem = document.getElementById("animate");
+  var op = 0;
+  var yshift = 0;
+  var id = setInterval(frame, 5);
+  function frame() {
+    if (op == 1 || yshift <= -20) {
+      clearInterval(id);
+      elem.style.opacity = 1;
+    } else {
+      op = op + 0.01;
+      yshift = yshift - 0.35;
+      elem.style.opacity = op;
+      elem.style.top = yshift + "px";
+    }
+  }
+}
+myMove()
+
+</script>
+
+</body>
+</html>
