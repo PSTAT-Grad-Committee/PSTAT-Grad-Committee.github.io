@@ -12,17 +12,16 @@
   </head>
 
   <!--Navigation bar-->
-<div id="nav-placeholder">
+  <div id="nav-placeholder">
 
-</div>
+  </div>
 
-<script src="//code.jquery.com/jquery.min.js"></script>
-<script>
-$.get("navigation.html", function(data){
-    $("#nav-placeholder").replaceWith(data);
-});
-</script>
-<!--end of Navigation bar-->
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("navbar.html");
+  });
+  </script>
+  <!--end of Navigation bar-->
 
   <br>
 
