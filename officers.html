@@ -109,6 +109,9 @@
 </div>
 </div>
 
+<br>
+<br>
+
 <div id = "container">
   <div id = "animate2">
 
@@ -199,25 +202,27 @@ function myMove() {
 }
 myMove()
 
-</script>
 
-<script>
 function myMove2() {
-  var elem = document.getElementById("animate2");
+  var elem = document.getElementById("animate");
   var op = 0;
-  var id = setInterval(frame, 10);
+  var yshift = 0;
+  var id = setInterval(frame, 5);
   function frame() {
-    if (op == 1) {
+    if (op == 1 || yshift <= -20) {
       clearInterval(id);
+      elem.style.opacity = 1;
     } else {
       op = op + 0.01;
+      yshift = yshift - 0.35;
       elem.style.opacity = op;
+      elem.style.top = yshift + "px";
     }
   }
 }
 setTimeout(function() {myMove2(); }, 700)
-</script>
 
+</script>
 
 
 </body>
