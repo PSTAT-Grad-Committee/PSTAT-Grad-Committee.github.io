@@ -67,40 +67,12 @@
   <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
   	<tr>
       	<td style = "text-align:center; padding-bottom: 10px">
-          <img src = "/Images/Portraits/Elcheikhali_Megan.png" alt="Megan" style="width:200px; height:200px">
-        </td>
-  	</tr>
-    <tr>
-      	<td style="text-align:center">
-          <h2>Megan Elcheikhali</h2>
-          Fourth Year; PhD
-        </td>
-    </tr>
-  </table>
-
-  <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
-  	<tr>
-      	<td style = "text-align:center; padding-bottom: 10px">
           <img src = "/Images/Portraits/placeholder2.png" alt="Avatar" style="width:200px">
         </td>
   	</tr>
     <tr>
       	<td style="text-align:center">
-          <h2>Andrea Angiuli</h2>
-          Fifth Year; PhD
-        </td>
-    </tr>
-  </table>
-
-  <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
-  	<tr>
-      	<td style = "text-align:center; padding-bottom: 10px">
-          <img src = "/Images/Portraits/placeholder2.png" alt="Avatar" style="width:200px">
-        </td>
-  	</tr>
-    <tr>
-      	<td style="text-align:center">
-          <h2>Karina Aponte</h2>
+          <h2>Blythe King</h2>
           First Year; PhD
         </td>
     </tr>
@@ -119,6 +91,60 @@
         </td>
     </tr>
   </table>
+
+  <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
+  	<tr>
+      	<td style = "text-align:center; padding-bottom: 10px">
+          <img src = "/Images/Portraits/placeholder2.png" alt="Avatar" style="width:200px">
+        </td>
+  	</tr>
+    <tr>
+      	<td style="text-align:center">
+          <h2>Karina Aponte</h2>
+          First Year; PhD
+        </td>
+    </tr>
+  </table>
+
+</div>
+</div>
+
+<div id = "container">
+  <div id = "animate2">
+
+<h1>Officers Emeriti:</h1>
+
+<br>
+
+  <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
+  	<tr>
+      	<td style = "text-align:center; padding-bottom: 10px">
+          <img src = "/Images/Portraits/placeholder2.png" alt="Avatar" style="width:200px">
+        </td>
+  	</tr>
+    <tr>
+      	<td style="text-align:center">
+          <h2>Andrea Angiuli</h2>
+          Fifth Year; PhD
+        </td>
+    </tr>
+  </table>
+
+
+    <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
+    	<tr>
+        	<td style = "text-align:center; padding-bottom: 10px">
+            <img src = "/Images/Portraits/Elcheikhali_Megan.png" alt="Megan" style="width:200px; height:200px">
+          </td>
+    	</tr>
+      <tr>
+        	<td style="text-align:center">
+            <h2>Megan Elcheikhali</h2>
+            Fourth Year; PhD
+          </td>
+      </tr>
+    </table>
+
 
   <table style="display: inline-block; padding-left: 50px; padding-bottom: 20px">
   	<tr>
@@ -174,6 +200,25 @@ function myMove() {
 myMove()
 
 </script>
+
+<script>
+function myMove2() {
+  var elem = document.getElementById("animate2");
+  var op = 0;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (op == 1) {
+      clearInterval(id);
+    } else {
+      op = op + 0.01;
+      elem.style.opacity = op;
+    }
+  }
+}
+setTimeout(function() {myMove2(); }, 700)
+</script>
+
+
 
 </body>
 </html>
