@@ -1,0 +1,205 @@
+---
+title: "Officers"
+---
+
+## Current Officers:
+
+### Core Officers
+
+::: {.callout-note appearance="default"}
+
+## Founding Officer: Ethan Marzban
+
+<!-- Ethan's Information  -->
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/Marzban_Ethan.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Ethan P. Marzban (He/Him)</b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+::: {.callout-note appearance="default"}
+
+## Founding Officer: Caroline Yovanovich
+
+<!-- Caroline's Information  -->
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Caroline Yovanovich </b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+::: {.callout-note appearance="default"}
+
+## Founding Officer: Karina Aponte
+
+<!-- Karina's Information  -->
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Karina Aponte </b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+::: {.callout-note appearance="default"}
+
+## Founding Officer: Erika McPhillips
+
+<!-- Erika's Information  -->
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Erika McPhillips </b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+::: {.callout-note appearance="default"}
+
+## Core Officer: Blythe King
+
+<!-- Blythe's Information  -->
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Blythe King </b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+\
+
+
+### Adjunct Officers
+
+*List of Adjunct Officers Coming Soon!*
+
+
+\
+
+## Officers Emereti
+
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Founding Officer: Dr. Andrea Angiuli
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Andrea Angiuli</b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Graduated PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Founding Officer: Megan Elcheikhali
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/Elcheikhali_Megan.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Megan Elcheikhali</b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Founding Officer: Matthew McDonough
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Megan Elcheikhali</b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::
+
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Founding Officer: Dr. Chao Zhang
+
+<table>
+<tr>
+	<td>
+    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
+  </td>
+
+  <td>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Chao Zhang</b></p>
+    <p style = "font-size: 20px; margin-left: 15px">Graduated PhD Student</p>
+  </td>
+</tr>
+</table>
+
+:::

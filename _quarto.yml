@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PSTAT Grad Student Committee"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: Pages/about.qmd
+      - href: Pages/events.qmd
+      - href: Pages/officers.qmd
+      - href: Pages/resources.qmd
+      - section: "Grad Life"
+        contents:
+          - href: Pages/GradLife/campus.qmd
+            text: On and Around Campus
+          - href: Pages/GradLife/sb.qmd
+            text: Santa Barbara
+    title: "PSTAT <span style='color:rgb(24, 108, 242)'>Graduate</span> <span style='color:rgb(237, 205, 26)'>Student</span> <span style='color:rgb(24, 108, 242)'>Committee</span>"
+    logo: "Images/Logos_Icons/logo.png"
+
+  page-footer: "Site Designed by Ethan Marzban using Quarto; ©2023"
+  favicon: "Images/Logos_Icons/logo.png"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
+execute:
+  freeze: auto

@@ -1,0 +1,52 @@
+---
+title: "&nbsp;"
+---
+
+<style>
+  table {
+    table-layout: fixed;
+  }
+  @media all and (max-width:768px) {
+        .calculator tr {    display: table;  width:100%;    }
+        .calculator td {    display: table-row; }
+    }
+    
+  body {
+    background: url('Images/Logos_Icons/beta5.gif') center / auto 450px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+</style>
+
+</style>
+
+<table class = "calculator">
+  <tr>
+    <td class = "noborder">
+      <img src="../Images/Logos_Icons/logo.png" alt="PGC Logo" width="350cm" style = "padding-right:10pt">
+    </td>
+    <td>
+      <p style="color:rgb(24, 108, 242); 
+                font-size:48px; 
+                margin-bottom: -15px; 
+                margin-left: 10px">
+          GRADUATE</p>
+      <p style="color:rgb(237, 205, 26); 
+                font-size:48px; 
+                margin-bottom: -15px; 
+                margin-left: 10px">
+          STUDENT</p>
+      <p style="color:rgb(24, 108, 242); 
+                font-size:48px; 
+                margin-bottom: -15px; 
+                margin-left: 10px">
+          COMMITTEE</p>
+    </td>
+  </tr>
+</table>
+
+
+\
+
+Welcome to the official website of the PSTAT Graduate Student Committee, part of the Department of Statistics and Applied Probability at the University of California, Santa Barbara. Here you will find information about our goals, upcoming events, and how to get involved. We hope to see you around! \
+
+While you're here, feel free to join our <a href = "https://discord.com/invite/cUJJsxspmM">discord</a> server!

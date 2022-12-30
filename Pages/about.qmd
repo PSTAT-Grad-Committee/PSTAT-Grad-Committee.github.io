@@ -1,0 +1,100 @@
+---
+title: "About"
+---
+
+::: {.callout-note appearance="default"}
+
+## Mission Statement
+
+As an organization, we strive to:
+
+- provide streamlined communication between graduate students and the department,
+- provide academic support for graduate students,
+- engage with the department in social capacities,
+- promote a diverse and equitable environment that encourages respect between all graduate students and faculty
+
+:::
+
+\
+
+## Events We Host:
+
+All of our events are free and open to all! \
+
+<table>
+
+<tr class = "spaced">
+	<td style="padding-right: 25px;">
+    <img src="../Images/Logos_Icons/Icons/social.png" alt="Coffee Cup" width = "75">
+  </td>
+
+  <td>
+    <h3>Social Events <span style = "color:#3347cc">(ONGOING)</span> </h3>
+
+    Throughout the quarter, we will host a series of social gatherings including Happy Hours, Trivia Nights, Jeapordy,
+    and a series of other fun events. To stay appraised of upcoming events, check out our
+    <a href = "events.html">events page</a> as well as our <a href = "https://discord.com/invite/cUJJsxspmM">discord</a> server.
+  </td>
+</tr>
+
+<tr class = "spaced">
+	<td>
+    <img src="../Images/Logos_Icons/Icons/townhall2.png" alt="Town Hall" width = "75">
+  </td>
+
+  <td>
+    <h3>Town Hall Meetings <span style = "color:#e3da5f">(PLANNED)</span></h3>
+
+    Once a quarter, we will all gather to amplify perspectives and concerns among students
+    in our community, and promote empatyh among our fellow PSTAT graduate students.
+  </td>
+</tr>
+
+<tr>
+</tr>
+
+<tr class = "spaced">
+	<td>
+    <img src="../Images/Logos_Icons/Icons/questions.png" alt="Question Marks" width = "75">
+  </td>
+
+  <td>
+    <h3>Stuff you Missed in Undergrad <span style = "color:#e3da5f">(PLANNED)</span></h3>
+
+    This series of lectures, hosted weekly, is presented by graduate students and is designed
+    to introduce (and possibly re-introduce) our fellow PSTAT graduate students to some concepts
+    that will prove useful in our graduate careers. Topics will range from mathematics, to probability,
+    to programming, and beyond.
+  </td>
+</tr>
+
+<tr class = "spaced">
+	<td>
+    <img src="../Images/Logos_Icons/Icons/clock.png" alt="Clock" width = "75">
+  </td>
+
+  <td>
+    <h3>Graduate Student Office Hours <span style = "color:#e3da5f">(PLANNED)</span></h3>
+
+    These weekly office hours are designed to be yet another way in which you can interact with your
+    fellow PSTAT grad students. Feel free to stop by to get advice, unofficial course help, or
+    to just chat!
+  </td>
+</tr>
+
+
+<tr class = "spaced">
+	<td>
+    <img src="../Images/Logos_Icons/Icons/announ.png" alt="Speaker" width = "75">
+  </td>
+
+  <td>
+    <h3>Faculty and Graduate Student Seminars <span style = "color:#e3da5f">(PLANNED)</span></h3>
+
+    Hosted by both members of the PSTAT department and graduate students from a variety of disciplines,
+    this seminar series is designed to forge a stronger bond between students and faculty, as well as
+    provide insight into the world of research in Statistics.
+  </td>
+</tr>
+
+</table>

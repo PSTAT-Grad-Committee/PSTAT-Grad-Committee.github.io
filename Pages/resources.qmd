@@ -1,0 +1,63 @@
+---
+title: "Resources"
+---
+
+## Useful Links
+
+### General Links:
+
+<ul>
+  <li><a href = "https://pstat.ucsb.edu/" target="_blank" target="_blank"><b>PSTAT Department:</b></a> the official website for the
+  Department of Statistics and Applied Probability.</li>
+  <br>
+  <li><a href = "https://pstat.ucsb.edu/" target="_blank"><b>GradDiv:</b></a> the official website for the
+  Division of Graduate Studies at UCSB. Important deadlines and forms can be found here.</li>
+</ul>
+
+
+<br>
+
+### Tech Links:
+
+
+<ul>
+  <li><a href = "https://www.lsit.ucsb.edu/" target="_blank"><b>LSIT:</b></a> the official website for the
+  Information Technology (IT) department of the College of Letters and Sciences.</li>
+  <br>
+  <li><a href = "https://help.lsit.ucsb.edu/hc/en-us/categories/200007714-GauchoSpace" target="_blank"><b>Gauchospace Help:</b></a>
+  the Gauchospace-specific subdivision of the LSIT webpage</li>
+  <br>
+  <li><a href = "https://help.lsit.ucsb.edu/hc/en-us/categories/5360081368475-Canvas" target="_blank"><b>Canvas Help:</b></a>
+  the Canvas-specific subdivision of the LSIT webpage</li>
+</ul>
+
+
+<br>
+
+### Teaching Links
+
+
+<ul>
+  <li><a href = "https://id.ucsb.edu/" target="_blank"><b>Instructional Development:</b></a> the official website for the
+  Instructional Development (ID) division at UCSB. In addition to offering consulting services,
+  ID also manages keys for projectors in teaching classrooms, and also facilitates tours of classrooms.</li>
+</ul>
+
+
+<br>
+<br>
+
+## Useful Documents
+
+<table>
+	<tr>
+    	<td><a href="../Files/22_23_Grad_Handbook.pdf" target = "_blank"><img src = "../Images/Logos_Icons/Icons/pdf_thicker.png" width = "45"/></a></td>
+    	<td width = "500" style = "padding-left: 10px"><a href="../Files/22_23_Grad_Handbook.pdf" target = "_blank"><b>Graduate Student Handbook</b></a><br>(from the PSTAT Department)</td>
+  </tr>
+</table>
+
+
+\
+
+
+<i>MORE RESOURCES COMING SOON!</i>
