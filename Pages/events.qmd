@@ -10,7 +10,7 @@ title: "Events"
 
 <!-- <img src="../Images/Event_Flyers/w23_tea.png" alt="Winter 2023 Tea Time Flyer" width = "350cm"> -->
 
-![]("Images/Event_Flyers/w23_tea.png")
+![]("../Images/Event_Flyers/w23_tea.png")
 
 Test Text
 
