@@ -70,6 +70,11 @@ title: "Officers"
 
 :::
 
+\
+
+
+### Adjunct Officers
+
 ::: {.callout-note appearance="default"}
 
 ## Founding Officer: Erika McPhillips
@@ -112,12 +117,6 @@ title: "Officers"
 
 :::
 
-\
-
-
-### Adjunct Officers
-
-*List of Adjunct Officers Coming Soon!*
 
 
 \
