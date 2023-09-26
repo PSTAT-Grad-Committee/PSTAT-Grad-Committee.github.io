@@ -6,219 +6,39 @@ title: "Officers"
 
 ### Core Officers
 
-::: {.callout-note appearance="default"}
 
-## Founding Officer: Ethan Marzban
+- **Ethan Marzban** (he/him) <mark>[Founding Officer]</mark>
 
-<!-- Ethan's Information  -->
+- **Karina Aponte** <mark>[Founding Officer]</mark>
 
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/Marzban_Ethan.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Ethan P. Marzban (He/Him)</b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-
-::: {.callout-note appearance="default"}
-
-## Founding Officer: Caroline Yovanovich
-
-<!-- Caroline's Information  -->
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Caroline Yovanovich </b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-::: {.callout-note appearance="default"}
-
-## Founding Officer: Karina Aponte
-
-<!-- Karina's Information  -->
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Karina Aponte </b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-\
+- **Sam Babichenko** (he/him)
 
 
 ### Adjunct Officers
 
-::: {.callout-note appearance="default"}
+- **Gia Ahn**
 
-## Founding Officer: Erika McPhillips
+- **Mallory Wang**
 
-<!-- Erika's Information  -->
+- **Ron Lencevičius** (he/him)
 
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
+- **Yuting Ma** (they/them)
 
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Erika McPhillips </b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-::: {.callout-note appearance="default"}
-
-## Core Officer: Blythe King
-
-<!-- Blythe's Information  -->
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Blythe King </b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-::: {.callout-note appearance="default"}
-
-## Core Officer: Cyrus Tabatabai-Yazdi
-
-<!-- Cyrus' Information  -->
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Cyrus Tabatabai-Yazdi </b></p>
-    <p style = "font-size: 20px; margin-left: 15px">First Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-
-\
 
 ## Officers Emereti
 
+- **Dr. Andrea Angiuli** <mark>[Founding Officer]</mark>
 
-::: {.callout-note appearance="default" collapse="true"}
+- **Dr. Caroline Yovanovich** <mark>[Founding Officer]</mark>
 
-## Founding Officer: Dr. Andrea Angiuli
+- **Dr. Chao Zhang** <mark>[Founding Officer]</mark>
 
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
+- **Dr. Matthew McDonough** <mark>[Founding Officer]</mark>
 
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Andrea Angiuli</b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Graduated PhD Student</p>
-  </td>
-</tr>
-</table>
+- **Dr. Megan Elcheikhali** <mark>[Founding Officer]</mark>
 
-:::
+- **Erika McPhillips** <mark>[Founding Officer]</mark>
 
+- **Blythe King**
 
-::: {.callout-note appearance="default" collapse="true"}
-
-## Founding Officer: Megan Elcheikhali
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/Elcheikhali_Megan.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Megan Elcheikhali</b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-
-::: {.callout-note appearance="default" collapse="true"}
-
-## Founding Officer: Matthew McDonough
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Matthew McDonough</b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
-
-
-::: {.callout-note appearance="default" collapse="true"}
-
-## Founding Officer: Dr. Chao Zhang
-
-<table>
-<tr>
-	<td>
-    <img src="../Images/Officer_Profiles/placeholder2.png" alt="Placeholder Profile" width = "150">
-  </td>
-
-  <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Dr. Chao Zhang</b></p>
-    <p style = "font-size: 20px; margin-left: 15px">Graduated PhD Student</p>
-  </td>
-</tr>
-</table>
-
-:::
+- **Cyrus Tabatabai-Yazdi**
