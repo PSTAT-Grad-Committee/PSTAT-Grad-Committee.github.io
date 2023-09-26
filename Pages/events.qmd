@@ -6,11 +6,9 @@ title: "Events"
 
 \
 
-## Current and Upcoming Events (as of Winter Quarter 2023)
+## Current and Upcoming Events (as of Fall Quarter 2023)
 
-<!-- <img src="../Images/Event_Flyers/w23_tea.png" alt="Winter 2023 Tea Time Flyer" width = "350cm"> -->
-
-![]("../Images/Event_Flyers/w23_tea.png")
+![](../Images/Event_Flyers/F23_BBQ_Flyer.png){width=35%}
 
 _**Stay Tuned for more updates soon!**_
 
@@ -18,6 +16,15 @@ _**Stay Tuned for more updates soon!**_
 \
 
 ## Archive of Events:
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Archive: Winter 2023
+
+![](../Images/Event_Flyers/Archives/W23/w23_tea.png){width=35%}
+
+:::
+
 
 ::: {.callout-note appearance="default" collapse="true"}
 
