@@ -23,7 +23,7 @@ website:
     title: "PSTAT <span style='color:rgb(24, 108, 242)'>Graduate</span> <span style='color:rgb(237, 205, 26)'>Student</span> <span style='color:rgb(24, 108, 242)'>Committee</span>"
     logo: "Images/Logos_Icons/logo.png"
 
-  page-footer: "Site Designed by Ethan Marzban using Quarto; ©2023"
+  page-footer: "Site Designed by Ethan Marzban using Quarto; ©2024"
   favicon: "Images/Logos_Icons/hex1.png"
 
 format:
