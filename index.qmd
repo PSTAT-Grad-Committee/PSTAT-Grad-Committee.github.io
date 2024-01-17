@@ -49,4 +49,12 @@ title: "&nbsp;"
 
 Welcome to the official website of the PSTAT Graduate Student Committee, part of the Department of Statistics and Applied Probability at the University of California, Santa Barbara. Here you will find information about our goals, upcoming events, and how to get involved. We hope to see you around! \
 
-While you're here, feel free to join our <a href = "https://bit.ly/pstat-discord">discord</a> server! 
+While you're here, feel free to join our <a href = "https://bit.ly/pstat-discord">discord</a> server!  \
+
+<div class="d-grid gap-2">
+  <button class="btn btn-lg btn-primary" type="button">
+  <a href="https://bit.ly/w24-pgc" target="_blank" style="color:white">
+    **_Join the Committee!_**
+  </a>
+  </button>
+</div>

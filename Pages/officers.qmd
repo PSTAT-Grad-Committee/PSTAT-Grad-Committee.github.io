@@ -2,6 +2,14 @@
 title: "Officers"
 ---
 
+<div class="d-grid gap-2">
+  <button class="btn btn-lg btn-primary" type="button">
+  <a href="https://bit.ly/w24-pgc" target="_blank" style="color:white">
+    **_Join the Committee!_**
+  </a>
+  </button>
+</div>
+
 ## Current Officers:
 
 ### Core Officers
@@ -20,9 +28,7 @@ title: "Officers"
 
 - **Mallory Wang**
 
-- **Ron Lencevičius** (he/him)
-
-- **Yuting Ma** (they/them)
+- **Yuting Ma** (they/she)
 
 
 ## Officers Emereti
@@ -36,6 +42,8 @@ title: "Officers"
 - **Dr. Matthew McDonough** <mark>[Founding Officer]</mark>
 
 - **Dr. Megan Elcheikhali** <mark>[Founding Officer]</mark>
+
+- **Ron Lencevičius** (he/him)
 
 - **Erika McPhillips** <mark>[Founding Officer]</mark>
 
