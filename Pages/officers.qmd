@@ -20,8 +20,6 @@ title: "Officers"
 
 ### Adjunct Officers
 
-- **Gia Ahn**
-
 - **Mallory Wang**
 
 - **Denisse Escobar Parra**
@@ -52,3 +50,5 @@ title: "Officers"
 - **Sam Babichenko** (he/him)
 
 - **Yuting Ma** (they/she)
+
+- **Gia Ahn**
