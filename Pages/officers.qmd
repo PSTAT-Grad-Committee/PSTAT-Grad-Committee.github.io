@@ -17,10 +17,6 @@ title: "Officers"
 
 - **Ethan Marzban** (he/him) <mark>[Founding Officer]</mark>
 
-- **Karina Aponte** <mark>[Founding Officer]</mark>
-
-- **Sam Babichenko** (he/him)
-
 
 ### Adjunct Officers
 
@@ -28,7 +24,7 @@ title: "Officers"
 
 - **Mallory Wang**
 
-- **Yuting Ma** (they/she)
+- **Denisse Escobar Parra**
 
 
 ## Officers Emereti
@@ -50,3 +46,9 @@ title: "Officers"
 - **Blythe King**
 
 - **Cyrus Tabatabai-Yazdi**
+
+- **Karina Aponte** <mark>[Founding Officer]</mark>
+
+- **Sam Babichenko** (he/him)
+
+- **Yuting Ma** (they/she)
