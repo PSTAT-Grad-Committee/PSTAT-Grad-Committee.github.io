@@ -72,49 +72,70 @@ If you are looking for a place to eat on Campus, your options are admittedly a b
 
 There are a few more options off-Campus, in the city of Isla Vista. Some highlights in IV include:
 
-<ul>
-  <li><b><u>Cajé:</u></b> Cajé is a moderately-sized coffee shop, offering smoothies and smoothie bowls along with bagels (and, of course, your typical spread of café beverages:
-    their Matcha Latté's are quite good!) There are only limited power outlets, though, so be aware of that if you are planning on studying for a while!</li>
-    
-    <br>
-    
-  <li><a href="https://www.kozycraftcoffee.com/" target="_blank"><b><u>Kozy Craft Coffee:</u></b></a> Kozy is the newest coffee shop to open in IV, and boasts an impressive (by Santa Barbara standards) set of business hours: 7am - 8pm, 7 days a week! Admittedly, the coffee itself is nothing spectacular, but as a modern and fun space to study near campus, it is certainly a welcome addition to the IV landscape.</li>
-  
-    <br>
-    
-  <li><a href="https://thesocialeats.com/" target="_blank"><b><u>SocialEats:</u></b></a> SocialEats offers perhaps the most diverse set of cuisines in Isla Vista, under one roof. With Mexican, Japanese, Western, and other foods featured, this food hall is one you won't want to miss!</li>
-  
+::: {.callout-note collapse="true"}
 
-    <br>
+## **Smoothies and Coffee**
 
-  <li><b><u>IV Drip:</u></b> The IV Drip is open fairly late, and boasts some of the <b>best</b> cookies around. (Several officers of this committee can personally attest!)</li>
+-   <b><u>Cajé:</u></b> Cajé is a moderately-sized coffee shop, offering smoothies and smoothie bowls along with bagels (and, of course, your typical spread of café beverages: their Matcha Latté's are quite good!) There are only limited power outlets, though, so be aware of that if you are planning on studying for a while.
 
-    <br>
+-   <a href="https://www.kozycraftcoffee.com/" target="_blank"><b><u>Kozy Craft Coffee:</u></b></a> Kozy is the newest coffee shop to open in IV, and is typically open from 7am - 4pm, 7 days a week. Admittedly, the coffee itself is nothing spectacular, but as a modern and fun space to study near campus, it is certainly a welcome addition to the IV landscape.
 
-  <li><b><u>Asia 101:</u></b> Located at the former Phở Bistro location, this restaurant serves up Asian-inspired eats, and is one of the newer additions to the IV landscape.</li>
+-   <b><u>IV Drip:</u></b> The IV Drip is open fairly late, and boasts some of the <b>best</b> cookies around. (Several officers of this committee can personally attest!)
 
-    <br>
+-   <b><u>Blenders in the Grass:</u></b> A fairly common Smoothie/Juice-Bar chain, serving up decent smoothies and bowls for the slightly more health-conscious.
 
-  <li><b><u>Woodstocks:</u></b> Woodstocks Pizza is well-known among UCSB students. Though quite pricey, their pizzas are quite good, featuring thick crusts and copious toppings. Woodstocks also sports a hefty array of beers, making it a popular haunt among graduate students. On Thursday Nights they also host a Trivia Night at 9pm.</li>
+-   <b><u>Oakberry:</u></b> With several locations (including one in downtown Santa Barbara), Oakberry is a fairly popular place specializing in Açaí bowls (though they also have smoothies and other beverage items). Their Isla Vista Location is one of their newest!
+:::
 
-   <br>
-   
-   <li><b><u>IV Pizza and Pub:</u></b> formerly a location of <i>Pizza my Heart</i>, the newly-opened IV Pizza and Pub serves up large New-York style slices of pizzas at a decently affordable price (at least, for IV). Management claims that beers and wines planned to be offered soon...
-   
-   <br>
 
-  <li><b><u>Freebirds:</u></b> Freebirds is fairly typical when it comes to Chipotle-style mexican restaurants (in the sense that food is made right in front of you), though Freebirds has the added benefit of being open fairly late (for IV) on most nights.</li>
 
-  <br>
+::: {.callout-note collapse="true"}
 
- <li><b><u>Blenders in the Grass:</u></b> A fairly common Smoothie/Juice-Bar chain, serving up decent smoothies and bowls for the slightly more health-conscious.</li>
+## **Pizza**
 
-   <br>
-   
-   <li><b><u>Oakberry:</u></b> With several locations (including one in downtown Santa Barbara), Oakberry is a fairly popular place specializing in Açaí bowls (though they also have smoothies and other beverage items). Their Isla Vista Location is one of their newest!</li>
+-   <a href="https://woodstocksiv.com/" target="_blank"><b><u>Woodstocks:</u></b></a> Woodstocks Pizza is well-known among UCSB students. Though quite pricey, their pizzas are quite good, featuring thick crusts and copious toppings. Woodstocks also sports a hefty array of beers, making it a popular haunt among graduate students. Pro Tip: stop by at 9pm on Thursdays to partake in weekly Trivia games!
 
-   <br>
+-   <a href="https://ivpizzapub.com/" target="_blank"><b><u>IV Pizza and Pub:</u></b></a> formerly a location of <i>Pizza my Heart</i>, the newly-opened IV Pizza and Pub serves up large New-York style slices of pizzas at a decently affordable price (at least, for IV). 
 
-  <li><b><u>Various Others!</u></b> This list is by no means comprehensive!</li>
+:::
 
-</ul>
+
+
+::: {.callout-note collapse="true"}
+
+## **Asian/Fusion**
+
+-   <a href="https://www.teddyriceiv.com/" target="_blank"><b><u>Teddy Rice:</u></b></a> Teddy Rice offers perhaps the most diverse set of cuisines in Isla Vista, under one roof. From Pan-Asian, to Mexican, to Middle Eastern - they've got it all! (We highly recommend the Omurice and the 빙수 [Bingsoo - Korean Shaved Ice]).
+
+-   <b><u>Asia 101:</u></b> Located at the former Phở Bistro location, this restaurant serves up a variety of Asian-inspired eats, and is one of the newer additions to the IV landscape.
+:::
+
+
+
+::: {.callout-note collapse="true"}
+
+## **Mexican**
+
+-   <b><u>Freebirds:</u></b> Freebirds is fairly typical when it comes to Chipotle-style mexican restaurants (in the sense that food is made right in front of you), though Freebirds has the added benefit of being open fairly late (for IV) on most nights.
+
+-   <a href="https://www.zocaloiv.com/" target="_blank">[**Zocalo**]{.underline}</a> 
+
+-   <a href="https://www.mariastacosiv.com/" target="_blank">[**Maria's Tacos**]{.underline}</a> 
+:::
+
+
+
+::: {.callout-note collapse="true"}
+
+## **Boba**
+
+-   **805 Boba**
+
+-   **Phresh Teas** (operates inside Kaiju)
+
+-   **Mojo** (operates inside Asia 101)
+
+-   **AiCha**
+:::
+
+-   <b><u>Various Others!</u></b> This list is by no means comprehensive!

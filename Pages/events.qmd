@@ -6,9 +6,7 @@ title: "Events"
 
 \
 
-## Current and Upcoming Events (as of Winter Quarter 2024)
-
-![](../Images/Event_Flyers/tea_w24_final.png){width=35%}
+## Current and Upcoming Events (as of Winter Quarter 2025)
 
 _**Stay Tuned for more updates soon!**_
 
@@ -16,6 +14,16 @@ _**Stay Tuned for more updates soon!**_
 \
 
 ## Archive of Events:
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Archive: Winter 2024
+
+![](../Images/Event_Flyers/tea_w24_final.png){width=35%}
+
+:::
+
+
 
 ::: {.callout-note appearance="default" collapse="true"}
 
