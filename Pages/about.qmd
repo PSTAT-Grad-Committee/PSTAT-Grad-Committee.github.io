@@ -39,7 +39,7 @@ To that end, we currently:
 
 -   maintain a graduate student [discord server](https://bit.ly/pstat-discord)
 
--   publish a quarterly newsletter to all currently-enrolled graduate students in the department
+-   publish a quarterly newsletter
 
 
 In the future, we seek to:
