@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Pages/Officers.qmd
+      - href: Pages/officers.qmd
         text: Officers
-      - href: Pages/About.qmd
+      - href: Pages/about.qmd
         text: About
-      - href: Pages/Events.qmd
+      - href: Pages/events.qmd
         text: Calendar and Events
       - sidebar:gradlife
       
