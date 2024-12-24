@@ -35,3 +35,4 @@ format:
       light: [lux, dark.scss]
     toc: true
 
+linkcolor: '#af25cf'
