@@ -32,3 +32,18 @@ As an organization, we strive to:
 - promote a diverse and equitable environment that encourages respect between all graduate students and faculty
 
 :::
+
+To that end, we currently:
+
+-   host a series of [events](events.qmd)
+
+-   maintain a graduate student [discord server](https://bit.ly/pstat-discord)
+
+-   publish a quarterly newsletter to all currently-enrolled graduate students in the department
+
+
+In the future, we seek to:
+
+-   host a student-led seminar series, showcasing the current work of graduate students
+
+-   interface further with the department's [DEI (Diversity, Equity, and Inclusion) initiative](https://pstat-dei.github.io)

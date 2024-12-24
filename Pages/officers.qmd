@@ -2,6 +2,13 @@
 title: "Officers"
 sidebar: false
 ---
+<div class="d-grid gap-2">
+  <button class="btn btn-info" type="button">
+  <a href="https://bit.ly/w24-pgc" target="_blank" style="color:white; font-size:2em">
+    **_Join the Committee!_**
+  </a>
+  </button>
+</div>
 
 <style>
 body {

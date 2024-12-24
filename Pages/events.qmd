@@ -3,6 +3,7 @@ title: "Calendar and Events"
 sidebar: false
 ---
 
+
 <style>
 body {
   background-image: url('../Images/Logos_Icons/sh_spiral.jpg');
