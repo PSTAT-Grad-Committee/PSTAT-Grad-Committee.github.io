@@ -1,0 +1,49 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&family=Raleway&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&family=Raleway:wght@700&display=swap');
+
+/*-- scss:rules --*/
+
+body {
+  font-family: 'Raleway', Sans-Serif;
+  font-size: 20px;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+p {font-family: 'Raleway';}
+
+h1 {
+  font-size: 42px;
+  font-family: 'Raleway';
+  font-weight: bold;
+  color: 'white'
+}
+
+h3 {
+  font-size: 26px;
+  font-family: 'Raleway';
+  font-weight: normal;
+}
+
+.bgimg {
+    background-image: url('Images/Logos_Icons/pstat_logo_50p_transp.svg');
+    background-repeat: no-repeat;
+}
+
+
+.bgimg2 {
+    background-image: url('Images/Logos_Icons/hex2.svg');
+    background-repeat: no-repeat;
+}
+
+.callout.callout-style-default{
+  background-color: #fcf8e3e0;
+}
+
+// #e6f2ff  // callout color

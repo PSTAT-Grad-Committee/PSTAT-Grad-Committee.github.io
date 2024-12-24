@@ -1,54 +1,60 @@
 ---
 title: "Officers"
+sidebar: false
 ---
 
-<div class="d-grid gap-2">
-  <button class="btn btn-lg btn-primary" type="button">
-  <a href="https://bit.ly/w24-pgc" target="_blank" style="color:white">
-    **_Join the Committee!_**
-  </a>
-  </button>
-</div>
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/ucsb1.jpg');
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+</style>
 
 ## Current Officers:
 
-- **Denisse Escobar Parra**
+- <mark>**Denisse Escobar Parra**</mark>
 
-- **Summer Le**
+- <mark>**Summer Le**</mark>
 
-- **Ethan Marzban** (he/him) <mark>[Founding Officer]</mark>
+- <mark>**Ethan Marzban** (he/him) [Founding Officer]</mark>
 
-- **Olivier Mulkin** 
+- <mark>**Olivier Mulkin** </mark>
 
-- **Jen (Hanzhang) Wang**
+- <mark>**Jen (Hanzhang) Wang**</mark>
 
-- **Mallory Wang**
+- <mark>**Mallory Wang**</mark>
 
 
 ## Officers Emereti
 
-- **Dr. Andrea Angiuli** <mark>[Founding Officer]</mark>
+- <mark>**Dr. Andrea Angiuli** [Founding Officer]</mark>
 
-- **Dr. Caroline Yovanovich** <mark>[Founding Officer]</mark>
+- <mark>**Dr. Caroline Yovanovich** [Founding Officer]</mark>
 
-- **Dr. Chao Zhang** <mark>[Founding Officer]</mark>
+- <mark>**Dr. Chao Zhang** [Founding Officer]</mark>
 
-- **Dr. Matthew McDonough** <mark>[Founding Officer]</mark>
+- <mark>**Dr. Matthew McDonough** [Founding Officer]</mark>
 
-- **Dr. Megan Elcheikhali** <mark>[Founding Officer]</mark>
+- <mark>**Dr. Megan Elcheikhali** [Founding Officer]</mark>
 
-- **Ron Lencevičius** (he/him)
+- <mark>**Ron Lencevičius** (he/him)
 
-- **Erika McPhillips** <mark>[Founding Officer]</mark>
+- <mark>**Erika McPhillips** [Founding Officer]</mark>
 
-- **Blythe King**
+- <mark>**Blythe King**</mark>
 
-- **Cyrus Tabatabai-Yazdi**
+- <mark>**Cyrus Tabatabai-Yazdi**</mark>
 
-- **Karina Aponte** <mark>[Founding Officer]</mark>
+- <mark>**Karina Aponte** [Founding Officer]</mark>
 
-- **Sam Babichenko** (he/him)
+- <mark>**Sam Babichenko** (he/him)</mark>
 
-- **Yuting Ma** (they/she)
+- <mark>**Yuting Ma** (they/she)</mark>
 
-- **Gia Ahn**
+- <mark>**Gia Ahn**</mark>
+

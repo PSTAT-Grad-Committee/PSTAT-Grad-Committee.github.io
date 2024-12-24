@@ -2,69 +2,38 @@
 title: "Resources"
 ---
 
-## Useful Links
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/flower.jpg');
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+</style>
 
-### General Links:
+## On-Campus
 
-<ul>
-  <li><a href = "https://pstat.ucsb.edu/" target="_blank" target="_blank"><b>PSTAT Department:</b></a> the official website for the
-  Department of Statistics and Applied Probability.</li>
-  <br>
-  <li><a href = "https://pstat.ucsb.edu/" target="_blank"><b>GradDiv:</b></a> the official website for the
-  Division of Graduate Studies at UCSB. Important deadlines and forms can be found here.</li>
-</ul>
+-   <a href="https://studentlife.sa.ucsb.edu/equity-inclusion/bias" target="_blank">Report an Incident of Bias to the University</a>
 
+-   <a href="https://diversity.ucsb.edu/" target="_blank">UCSB Office of Diversity, Equity, and Inclusion</a>
 
-<br>
+-   <a href="https://wellbeing.ucsb.edu/dei-departments" target="_blank">UCSB Wellbeing Page on DEI</a>
 
-### Tech Links:
+-   <a href="https://basicneeds.ucsb.edu/" target="_blank">UCSB Page on Basic Needs</a> 
 
+-   <a href="https://firstgen.ucsb.edu/" target="_blank">UCSB First-Generation Community</a>
 
-<ul>
-  <li><a href = "https://www.lsit.ucsb.edu/" target="_blank"><b>LSIT:</b></a> the official website for the
-  Information Technology (IT) department of the College of Letters and Sciences.</li>
-  <br>
-  <!-- <li><a href = "https://help.lsit.ucsb.edu/hc/en-us/categories/200007714-GauchoSpace" target="_blank"><b>Gauchospace Help:</b></a> -->
-  <!-- the Gauchospace-specific subdivision of the LSIT webpage</li> -->
-  <!-- <br> -->
-  <li><a href = "https://help.lsit.ucsb.edu/hc/en-us/categories/5360081368475-Canvas" target="_blank"><b>Canvas Help:</b></a>
-  the Canvas-specific subdivision of the LSIT webpage</li>
-</ul>
+-   <a href="https://obsd.sa.ucsb.edu/" target="_blank">UCSB Office of Black Student Development (OBSD)</a>
 
+-   <a href="https://titleix.ucsb.edu/" target="_blank">UCSB Office of Title IX and Sexual Harassment Policy Compliance</a>
 
-<br>
+## Off-Campus
 
-### Teaching Links
+-   <a href="https://datascijedi.org/" target="_blank">Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group</a> (through the <a href="https://www.amstat.org/" target="_blank">American Statistical Association</a>)
 
+-   <a href="https://ostem.org/" target="_blank">Out in Stem (oSTEM)</a>
 
-<ul>
-    
-  <li><a href = "https://otl.ucsb.edu/" target="_blank"><b>Office Of Teaching and Learning (OTL):</b></a> the official website for the Office of Teaching and Learning at UCSB.</li>
-  
-  <br />
-    
-  <li><a href = "https://id.ucsb.edu/" target="_blank"><b>Instructional Development (ID):</b></a> the official website for the Instructional Development (ID) division at UCSB, which (among other things) manages keys for projectors in teaching classrooms, and also facilitates tours of classrooms.</li>
-</ul>
-
-
-<br>
-<br>
-
-## Useful Documents
-
--   <a href="https://carter.faculty.pstat.ucsb.edu/TAHandbook/" target="_blank">**Teaching Assistant Handbook (opens in a New Tab)**</a>
-
--   <a href="https://carter.faculty.pstat.ucsb.edu/_book/index.html" target="_blank">**Graduate Student Handbook (opens in a New Tab)**</a>
-
-<table>
-	<tr>
-    	<td><a href="../Files/22_23_Grad_Handbook.pdf" target = "_blank"><img src = "../Images/Logos_Icons/Icons/pdf_thicker.png" width = "45"/></a></td>
-    	<td width = "500" style = "padding-left: 10px"><a href="../Files/22_23_Grad_Handbook.pdf" target = "_blank"><b>Graduate Student Handbook [OLDER VERSION]</b></a><br>(from the PSTAT Department)</td>
-  </tr>
-</table>
-
-
-\
-
-
-<i>MORE RESOURCES COMING SOON!</i>
+-   <a href="https://awm-math.org/" target="_blank">Association for Women in Mathematics (AWM)</a>

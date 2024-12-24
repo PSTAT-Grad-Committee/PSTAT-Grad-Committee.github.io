@@ -1,7 +1,18 @@
 ---
 title: "Santa Barbara"
 ---
-
+<style>
+body {
+  background-image: url('../../Images/Logos_Icons/palms.jpg');
+  background-color: rgba(255, 255, 255, 0.8);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+  color: black;
+}
+</style>
 
 Though Isla Vista is the closest township to UCSB, it is admittedly a bit limited in what it offers. As such, it is fairly common for UCSB students to venture out to downtown Santa Barbara, either by car (12 minutes) or by bus (30 minutes via the 24X, 1hr via the 11).
 

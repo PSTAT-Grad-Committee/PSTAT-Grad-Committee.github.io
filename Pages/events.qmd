@@ -1,6 +1,21 @@
 ---
-title: "Events"
+title: "Calendar and Events"
+sidebar: false
 ---
+
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/sh_spiral.jpg');
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+</style>
+
+## Calendar 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=pstat.grad.committee%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="700" height="450" frameborder="0" scrolling="no"></iframe>
 
@@ -8,7 +23,7 @@ title: "Events"
 
 ## Current and Upcoming Events (as of Winter Quarter 2025)
 
-_**Stay Tuned for more updates soon!**_
+<mark>_**Stay Tuned for more updates soon!**_</mark>
 
 
 \

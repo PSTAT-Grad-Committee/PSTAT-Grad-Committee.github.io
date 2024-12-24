@@ -2,6 +2,19 @@
 title: "On and Around Campus"
 ---
 
+<style>
+body {
+  background-image: url('../../Images/Logos_Icons/flower.jpg');
+  background-color: rgba(255, 255, 255, 0.8);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+  color: black;
+}
+</style>
+
 ## The Campus
 
 The UCSB campus is situated right along the coastline, with several buildings (including our very own South Hall) featuring views of the water. The campus also houses a Lagoon, which is home to a number of wildlife species. Our department (the Department of Statistics and Applied Probability) is located on the fifth floor of <b>South Hall</b>, which houses many other departments including Mathematics, Economics, Linguistics, and a few others.

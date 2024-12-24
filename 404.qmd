@@ -1,7 +1,7 @@
 ---
-title: "Page Not Found"
+title: ""
+sidebar: false
 ---
+<p style = "font-size:200%"><b><i>Uh-Oh; You've Navigated to a Page that Doesn't Exist!</i></b></p>
 
-# 404
-
-Whoops- seems like you've found your way to a page that is so secret it doesn't exist yet!
+<p style = "font-size:125%"><b><i>(Error 404: Page Not Found)</i></b></p>

@@ -3,36 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "PSTAT Grad Student Committee"
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
+  title: "PSTAT <span style='color:rgb(24, 108, 242)'>Graduate</span> <span style='color:rgb(237, 205, 26)'>Student</span> <span style='color:rgb(24, 108, 242)'>Committee</span>"
+  navbar:
+    left:
       - href: index.qmd
         text: Home
-      - href: Pages/about.qmd
-      - href: Pages/events.qmd
-      - href: Pages/officers.qmd
-      - href: Pages/resources.qmd
-      - section: "Grad Life"
+      - href: Pages/Officers.qmd
+        text: Officers
+      - href: Pages/About.qmd
+        text: About
+      - href: Pages/Events.qmd
+        text: Calendar and Events
+      - sidebar:gradlife
+      
+  page-footer: "Site Originally Designed by Ethan Marzban using <a href='https://quarto.org/' target='_blank'>Quarto</a>; ©2025"
+  favicon: "Images/Logos_Icons/hex1.png"
+  
+  sidebar:
+      - id: gradlife
+        title: "Grad Life"
+        style: "docked"
         contents:
           - href: Pages/GradLife/campus.qmd
             text: On and Around Campus
           - href: Pages/GradLife/sb.qmd
             text: Santa Barbara
-    title: "PSTAT <span style='color:rgb(24, 108, 242)'>Graduate</span> <span style='color:rgb(237, 205, 26)'>Student</span> <span style='color:rgb(24, 108, 242)'>Committee</span>"
-    logo: "Images/Logos_Icons/logo.png"
-
-  page-footer: "Site Designed by Ethan Marzban using Quarto; ©2024"
-  favicon: "Images/Logos_Icons/hex1.png"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [lux, dark.scss]
     toc: true
 
-editor: source
-
-execute:
-  freeze: auto
