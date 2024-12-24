@@ -1,0 +1,34 @@
+---
+title: "About"
+sidebar: false
+---
+
+<style>
+body {
+  background-image: url('../Images/Logos_Icons/sh_exterior.jpg');
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  background-repeat:        no-repeat;
+  background-attachment:    fixed;
+  background-size:          cover;
+  background-position:      center top;
+}
+
+.blockquote {
+  color: black;
+}
+</style>
+
+
+::: {.callout-note appearance="default"}
+
+## Mission Statement
+
+As an organization, we strive to:
+
+- provide streamlined communication between graduate students and the department,
+- provide academic support for graduate students,
+- engage with the department in social capacities,
+- promote a diverse and equitable environment that encourages respect between all graduate students and faculty
+
+:::
