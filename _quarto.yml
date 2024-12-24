@@ -16,7 +16,7 @@ website:
         text: Calendar and Events
       - sidebar:gradlife
       
-  page-footer: "Site Originally Designed by Ethan Marzban using <a href='https://quarto.org/' target='_blank'>Quarto</a>; ©2025"
+  page-footer: "Site Originally Designed by Ethan Marzban using <a href='https://quarto.org/' target='_blank'>Quarto</a>; Images courtesy of Ethan Marzban, ©2025"
   favicon: "Images/Logos_Icons/hex1.png"
   
   sidebar:
